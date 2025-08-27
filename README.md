@@ -32,7 +32,7 @@ Here's a collection of my work that I'm particularly proud of:
 - Performed comprehensive **Exploratory Data Analysis (EDA)** on an e-commerce dataset with 11,000+ records.
 - Uncovered insights into sales trends, customer behavior, and product performance using statistical visualizations.
 - **Tech:** Python, Pandas, Seaborn, Matplotlib
-### [⚡ Electricity Bill Management System](https://github.com/tk452859/Electricity-Bill-Management-System-SQL-Project)
+### [⚡ Electricity Bill Management System](https://github.com/tk452859/Electricity-Bill-Management-System-SQL-Project-)
 - Designed and implemented a normalized **SQL database schema** to automate billing and customer management for a utility provider.
 - Engineered complex queries with **JOINs** and aggregates to generate financial reports and track customer consumption patterns.
 - **Tech:** MySQL
