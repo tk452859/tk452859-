@@ -18,17 +18,17 @@ I'm a detail-oriented and analytical B.Tech student at Maulana Azad National Ins
 
 Here's a collection of my work that I'm particularly proud of:
 
-### [💳 Credit Card Fraud Detection](https://github.com/tk452859/your-fraud-repo-link)
+### [💳 Credit Card Fraud Detection](https://github.com/tk452859/Fraud_Detection-project/tree/main)
 - Built a **Random Forest Classifier** to detect fraudulent transactions from a dataset of 285,000 records.
 - Engineered features and handled class imbalance using stratified sampling, achieving high precision and recall.
 - **Tech:** Python, Pandas, Scikit-learn, Imbalanced-Learn
 
-### [📈 Sales Data Analysis](https://github.com/tk452859/your-sales-repo-link)
+### [📈 Sales Data Analysis](https://github.com/tk452859/EXCEL_DASHBOARD)
 - Analyzed 500+ international sales records to identify key trends and performance metrics.
 - Created dynamic pivot tables and charts in Excel to visualize profit and revenue across regions.
 - **Tech:** Microsoft Excel, Pivot Tables, Data Visualization
 
-### [🛒 E-Commerce Data Exploration](https://github.com/tk452859/your-ecommerce-repo-link)
+### [🛒 E-Commerce Data Exploration](https://github.com/tk452859/Python-Project-for-EDA)
 - Performed comprehensive **Exploratory Data Analysis (EDA)** on an e-commerce dataset with 11,000+ records.
 - Uncovered insights into sales trends, customer behavior, and product performance using statistical visualizations.
 - **Tech:** Python, Pandas, Seaborn, Matplotlib
